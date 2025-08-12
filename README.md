@@ -1,5 +1,4 @@
-# Kaleemulla_Projects
-This repo holds my projects available to public domain
+# This repo holds my projects available to public domain
 
 1. AI WebEx Bot Prodigy
 2. AI WebEx Bot Rookie
