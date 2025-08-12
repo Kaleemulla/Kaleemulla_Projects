@@ -1,4 +1,4 @@
-This project creates a WebEx Bot that will answer the user queries based on the WebEx space/groups knowledge it has gathered. It uses RAG with LLM for deriving final result for the user query.
+# This project creates a WebEx Bot that will answer the user queries based on the WebEx space/groups knowledge it has gathered. It uses RAG with LLM for deriving final result for the user query.
 
 The project consists of 2 files:
 
