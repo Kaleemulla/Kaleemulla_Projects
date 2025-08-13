@@ -1,4 +1,4 @@
-def shortestUniquePrefixes(strings):
+def ShortstUniqePref(strings):
     trie = Trie()
 
     for string in strings:
