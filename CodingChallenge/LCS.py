@@ -1,5 +1,4 @@
 def longestCommonSubsequence(str1, str2):
-    # Write your code here.
     dp = [[0 for _ in range(len(str2)+1)] for _ in range(len(str1)+1)]
 
     for i in range(1, len(str1)+1):
