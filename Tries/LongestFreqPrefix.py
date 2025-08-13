@@ -1,4 +1,4 @@
-def longestMostFrequentPrefix(strings):
+def longestFrequentPrefix(strings):
     trie = Trie()
     for string in strings:
         trie.insert(string)
