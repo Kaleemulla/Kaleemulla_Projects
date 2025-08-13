@@ -13,3 +13,6 @@ Backend integration code for a WebEx Bot that will chime into users conversation
 
 # Jira Jedi - WebEx Bot for JIRA
 Backend integration code for a WebEx Bot that will helps you create tasks, fetch summary, log hours into JIRA for your daily tasks. The bot uses WebEx integration and JIRA python module to integrate with JIRA.
+
+# DPChallenge, Recursion, Graphs, Tries, Algorithms, Arrays, LinkedList
+This folder contains my solutions to problems from Algoexpert
