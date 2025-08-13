@@ -1,5 +1,9 @@
-# This repo holds my projects available to public domain
 
-1. AI WebEx Bot Prodigy
-2. AI WebEx Bot Rookie
-3. WebEx Bot Jira Jedi
+# AI WebEx Bot Prodigy
+
+This project creates a WebEx Bot that will answer the user queries based on the WebEx space/groups knowledge it has gathered. It uses RAG with LLM for deriving final result for the user query.
+The project consists of 2 files:
+
+webex_space_crawler.py -> Runs as cron, this will crawl through all the WebEx spaces and fetch all the group messages. The messages are then categorized, correlated and summarized. The categorized summaries are then stored into embeddings. bot.py -> Actual bot code that runs on Flask. This code acts as a Webhook integration that will be plugged to the WebEx bot.
+3. AI WebEx Bot Rookie
+4. WebEx Bot Jira Jedi
